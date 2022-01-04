@@ -1,7 +1,7 @@
 # PictureSelectorLight 2.0 无裁剪功能版  
   一款针对android平台下的图片选择器，支持从相册或拍照选择图片或视频、音频，支持动态权限获取、压缩、主题自定义配置等功能、适配android 6.0+系统的开源图片选择框架。 
   
-  项目会一直维护(有bug修复完成，一般周末会更新)，发现问题欢迎提出会修复，希望用得着的朋友点个star。 
+  项目会一直维护，发现问题欢迎提出isuess，用得着的朋友点个star。 
   
   [PictureSelector 2.0完整版](https://github.com/LuckSiege/PictureSelector)
 
